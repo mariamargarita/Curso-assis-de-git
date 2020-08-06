@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Buzz Buzz') {
       steps {
-        echo 'Crear nuevo pipeline'
+        echo 'Bess Buzz'
       }
     }
 
